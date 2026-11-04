@@ -133,3 +133,12 @@ Happy Learning
 Learning and completing the 90 Days of DevOps challenge with @TrainWithShubham.
 
 #90DaysOfDevOps #TrainWithShubham
+## 90 Days of DevOps Challenge
+
+I am participating in the #90DaysOfDevOps challenge by @TrainWithShubham.
+
+I will be documenting my daily learning, hands-on practice, and progress in DevOps.
+
+Looking forward to learning and growing with the DevOps community!
+
+#90DaysOfDevOps #DevOpsKaJosh #TrainWithShubham
